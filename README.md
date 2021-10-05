@@ -1,6 +1,6 @@
 # Jon Barson
 
-<script>console.log('boom')</script>
+<h2>Happy to meet you!</h2>
 
 
 **jbarson/jbarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
