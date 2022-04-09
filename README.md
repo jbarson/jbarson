@@ -1,6 +1,12 @@
 # Jon Barson
 
 <h2>Happy to meet you!</h2>
+
+- 💬 Ask me about JavaScript.
+- 📫 How to reach me: @jbarson
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a suit of armour in my closet.
+
 <!--
 Here are some ideas to get you started:
 
@@ -9,8 +15,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-- 💬 Ask me about JavaScript.
-- 📫 How to reach me: @jbarson
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a suit of armour in my closet.
 
