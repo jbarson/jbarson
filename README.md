@@ -26,5 +26,6 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br />
+<hr />
 
 [![Linkedin:Jon Barson](https://img.shields.io/badge/-jonbarson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jon-barson/)](https://www.linkedin.com/in/jon-barson/)
