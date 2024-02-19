@@ -29,3 +29,7 @@
 <hr />
 
 [![Linkedin:Jon Barson](https://img.shields.io/badge/-jonbarson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jon-barson/)](https://www.linkedin.com/in/jon-barson/)
+<hr />
+[![starmap](https://github.com/jbarson/jbarson/raw/master/assets/starmap.png)](https://starmap.cuthalion.ca/)
+<hr />
+[![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbarson&show_icons=true&theme=radical)](
