@@ -32,6 +32,10 @@
 
 <hr />
 
+## Projects
+
+### [Starmap](https://starmap.cuthalion.ca)
+
 [![starmap](https://github.com/jbarson/jbarson/blob/main/assets/starmap.png)](https://starmap.cuthalion.ca)
 
 
