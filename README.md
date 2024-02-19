@@ -38,7 +38,9 @@
 
 [![starmap](https://github.com/jbarson/jbarson/blob/main/assets/starmap.png)](https://starmap.cuthalion.ca)
 
+### [Dad Joke Generator](https://dad-jokes-for-relay.netlify.app/)
 
+[![Dad Joke Generator](https://dad-jokes-for-relay.netlify.app/)](https://dad-jokes-for-relay.netlify.app/)
 
 <hr />
 <!-- [![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbarson&show_icons=true&theme=radical)] -->
