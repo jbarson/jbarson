@@ -11,7 +11,7 @@
 
 ## 🧰 Languages and Tools
 
-<img align="left" alt="JavaScript" title="hello nurse" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Ruby-on-Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />  
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -36,7 +36,7 @@
 
 ### [Starmap](https://starmap.cuthalion.ca)
 
-<img src="https://github.com/jbarson/jbarson/blob/main/assets/starmap.png" alt="starmap" width="200" style="align: right;" />
+<img src="https://github.com/jbarson/jbarson/blob/main/assets/starmap.png" alt="starmap" width="200" style="float: right;" />
 
 [![starmap](https://github.com/jbarson/jbarson/blob/main/assets/starmap.png)](https://starmap.cuthalion.ca)
 
