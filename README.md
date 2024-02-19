@@ -36,11 +36,7 @@
 
 ### [Starmap](https://starmap.cuthalion.ca)
 
-<img src="https://github.com/jbarson/jbarson/blob/main/assets/starmap.png" alt="starmap" width="200" style="float: right;" />
-
 [![starmap](https://github.com/jbarson/jbarson/blob/main/assets/starmap.png)](https://starmap.cuthalion.ca)
-
-
 
 ### [Dad Joke Generator](https://dad-jokes-for-relay.netlify.app/)
 
