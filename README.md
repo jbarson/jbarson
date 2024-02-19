@@ -29,6 +29,7 @@
 <hr />
 
 [![Linkedin:Jon Barson](https://img.shields.io/badge/-jonbarson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jon-barson/)](https://www.linkedin.com/in/jon-barson/)
+![GitHub jbarson](https://img.shields.io/github/followers/jbarson?label=follow&style=social)
 
 <hr />
 
